@@ -363,6 +363,7 @@ nav .brand-logo img {
 
 .portfolio-top-inner h2{
   color: #fff;
+  margin-top: auto;
 }
 
 
@@ -593,7 +594,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
 .rsociales{
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
   border-radius: 4px;
-  height: 500px;
+  height: 200px;
   display: inline;
   float: left;
   width: 100%;
@@ -606,43 +607,6 @@ textarea.materialize-textarea:focus:not([readonly]) {
   text-align: center;
   margin-left: 50px;
 }
-.footer-bottom{
-  background-color: #fff;
-  display: inline;
-  float: left;
-  width: 100%;
-}
-
-
-.footer-inner {
-  display: inline;
-  float: left;
-  padding-top: 20px;
-  position: relative;
-  text-align: center;
-  width: 100%;
-}
-
-.up-btn {
-  background-color: #fff;
-  color: #000;
-  left: 47.7%;
-  position: absolute;
-  top: -28px;
-}
-
-
-.up-btn i{
-  color: #000;
-}
-
-
-.up-btn:hover,.up-btn:focus{
-  background-color: #fff;
-}
-
-
-
 
 /* RESPONSIVE STYLE */
 
